@@ -1,0 +1,57 @@
+h1 {
+  color: red;
+  font-family: sans-serif;
+  text-align: center;
+}
+h2 {
+  color: rgb(17, 50, 197);
+  font-family: cursive;
+  text-align: center;
+}
+h3 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: firebrick;
+}
+img {
+  width: 140px;
+  height: 140px;
+}
+.ofertas {
+  color: rgb(202, 73, 13);
+  text-align: right;
+  padding: 30px;
+  margin: 30px;
+}
+.supermercado {
+  color: rgb(179, 21, 179);
+  text-align: right;
+}
+
+div {
+  background-color: yellowgreen;
+  border: 5px solid red;
+  padding: 30px;
+  margin: 30px;
+  height: 300%;
+  width: 900px;
+  padding-left: 35px;
+}
+.divDos {
+  background-color: rgb(87, 23, 189);
+  border: 3px solid purple;
+  margin: 30px;
+  height: 350%;
+  width: 1000px;
+}
+p {
+  color: black;
+  text-align: center;
+  font-size: 25px;
+}
+.precios {
+  color: white;
+  text-align: center;
+  font-size: 15px;
+  height: 20px;
+}
